@@ -1,0 +1,13 @@
+# Compiled class file
+/build/
+
+
+
+# Log file
+*.log
+
+
+# Package Files #
+*.jar
+*.zip
+
